@@ -1,0 +1,7 @@
+---
+username: ansible
+vmsize: Standard_D1
+resource: ansibleresource
+vmname:
+  - linuxvm1
+# password: "{{ vault_password }}"
